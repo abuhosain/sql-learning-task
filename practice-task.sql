@@ -1,4 +1,5 @@
--- Active: 1729489322378@@127.0.0.1@5432@psql_conceptual
+-- Active: 1729274956860@@127.0.0.1@5432@ph
+ 
 
 -- Create departement table
 CREATE TABLE departments (

@@ -85,5 +85,4 @@ In this session, we will explore fundamental SQL concepts using **PostgreSQL** b
 #### **Task 9: Pagination**
 - Write a query to fetch the first 2 employees ordered by `employee_id`, and then implement pagination using `LIMIT` and `OFFSET`.
 
----
-# B3-psql-conceptual-session
+ 
